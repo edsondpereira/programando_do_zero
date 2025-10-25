@@ -1,0 +1,11 @@
+https://youtu.be/qnoevFqNXNQ
+
+Criando nova branch: git checkout -b exemplo-html --> será fechado a branch e aberta essa que acabou de ser criada
+Acessando a branch main: git checkout main
+
+git status --> exibe as alterações feitas no projeto
+
+git push origin exemplo-html --> a partir daqui, a branch criada, será exibida no github
+
+https://youtu.be/fcAgXvp6TnM?list=PLvFrGcqQflww64dThQcwPytIMEr6grL2-
+Parei em 1:46
